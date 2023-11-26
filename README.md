@@ -1,6 +1,5 @@
 # Hypothesis_Testing
 ## Project description
-### Project context
 The Library of Montana State University has a website that students use to find books and articles.
 
 On the homepage below the library picture, there is a search bar and three big items: “Find”, “Request” and “Interact”. All three of them contain access to important information and services that the library prides itself in offering. However, the Website Analytics show that the “Interact” button has, ironically, almost no interactions.
@@ -23,4 +22,5 @@ The desired Statistical Significance was chosen to be 90%: it is a bit lower tha
 The length of the experiment was established at 21 days. The test ran between May 29, 2013, and June 18, 2013.
 The data was extracted from crazyegg, a service that tracks traffic to websites and provides insights and well-structured data.
 
+## Used techniques and python modules
 
